@@ -1,0 +1,15 @@
+{
+  "name": "nm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@192.168.0.26:fe/nm.git"
+  },
+  "author": "Kane",
+  "license": "ISC"
+}
