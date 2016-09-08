@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@192.168.0.26:fe/nm.git"
+    "url": "git@github.com:dmccer/nm.git"
   },
   "author": "Kane",
   "license": "ISC",
